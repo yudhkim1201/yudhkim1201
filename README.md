@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm DH Kim 👋
 
 ### 🎓 Education
 - **Major:** Robotics Engineering (로봇공학)
